@@ -1,4 +1,6 @@
 # Brawlhalla Reskin by razenet
+![](main.gif)
+
 ## 1. Get Started
 - Choose a theme in /themes
 - Download the folder with the theme
