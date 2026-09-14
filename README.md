@@ -1,5 +1,5 @@
 # Brawlhalla Reskin by razenet
-![](main.gif)
+![](assets/main.gif)
 
 ## 1. Get Started
 - Choose a theme in /themes
@@ -12,4 +12,4 @@
 
 ## 2. Themes
 ### black-v2
-![](blackv2.gif)
+![](assets/blackv2.gif)
